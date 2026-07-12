@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Supernova-Dycx.aternos.me:43986",
+    "ip": "Supernova-Dycx.aternos.me",
     "port": 43986,
     "version": "",
     "try-creative": false
